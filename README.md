@@ -2,6 +2,8 @@
 
 Vectorizer Web ist eine Webanwendung, die es ermöglicht, Rasterbilder (wie Fotos oder Zeichnungen) in skalierbare Vektorgrafiken (SVG) umzuwandeln. Die Anwendung bietet eine einfache Benutzeroberfläche zum Hochladen von Bildern und Anpassen verschiedener Vektorisierungsparameter.
 
+<img src="templates/preview.png" width="900" />
+
 ## Unterstützte Dateiformate
 
 Derzeit werden die folgenden Rasterbildformate für den Upload unterstützt:
